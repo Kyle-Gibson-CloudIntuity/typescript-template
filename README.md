@@ -25,7 +25,7 @@ Alternatively see [Docker install guide](DockerGuide.md) (optional) that install
 
 Download the template to your computer and install everything it requires:
 ```
-git clone [https://github.com/Kyle-Gibson-CloudIntuity/typescript-template.git]
+git clone https://github.com/Kyle-Gibson-CloudIntuity/typescript-template.git
 cd typescript-template
 npm i
 ```
